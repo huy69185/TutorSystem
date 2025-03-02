@@ -1,0 +1,15 @@
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\bin\Debug\net8.0\TutorSystem.Service.deps.json
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\bin\Debug\net8.0\TutorSystem.Service.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\bin\Debug\net8.0\TutorSystem.Service.pdb
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\bin\Debug\net8.0\TutorSystem.Repository.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\bin\Debug\net8.0\TutorSystem.Repository.pdb
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.csproj.AssemblyReference.cache
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.AssemblyInfoInputs.cache
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.AssemblyInfo.cs
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSys.8B0AD7A5.Up2Date
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\refint\TutorSystem.Service.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.pdb
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\ref\TutorSystem.Service.dll

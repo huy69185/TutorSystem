@@ -1,0 +1,73 @@
+﻿@page
+@model TutorSystem.Presentation.Pages.Account.RegisterModel
+@{
+    ViewData["Title"] = "Đăng ký tài khoản";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-99">
+    <div class="card shadow-lg p-4" style="width: 420px; background-color: #E3F2FD; border-radius: 15px;">
+        <div class="text-center">
+            <h3 class="fw-bold" style="color:#FF85A2;"><i class="fas fa-user-plus"></i> Đăng ký tài khoản</h3>
+            <p class="text-muted">Tạo tài khoản để bắt đầu</p>
+        </div>
+
+        <form method="post">
+            <div class="mb-3">
+                <label for="FullName" class="form-label"><i class="fas fa-user"></i> Họ và tên</label>
+                <input asp-for="FullName" class="form-control border-0 shadow-sm text-dark"
+                       type="text" required placeholder="Nhập họ và tên của bạn"
+                       style="background-color:#FFF0F5;" />
+            </div>
+
+            <div class="mb-3">
+                <label for="Email" class="form-label"><i class="fas fa-envelope"></i> Email</label>
+                <input asp-for="Email" class="form-control border-0 shadow-sm text-dark"
+                       type="email" required placeholder="Nhập email của bạn"
+                       style="background-color:#FFF0F5;" />
+            </div>
+
+            <div class="mb-3">
+                <label for="PhoneNumber" class="form-label"><i class="fas fa-phone"></i> Số điện thoại</label>
+                <input asp-for="PhoneNumber" class="form-control border-0 shadow-sm text-dark"
+                       type="text" placeholder="Nhập số điện thoại"
+                       style="background-color:#FFF0F5;" />
+            </div>
+
+            <div class="mb-3">
+                <label for="University" class="form-label"><i class="fas fa-school"></i> Trường đại học</label>
+                <input asp-for="University" class="form-control border-0 shadow-sm text-dark"
+                       type="text" placeholder="Nhập tên trường"
+                       style="background-color:#FFF0F5;" />
+            </div>
+
+            <div class="mb-3">
+                <label for="Role" class="form-label"><i class="fas fa-user-tag"></i> Vai trò</label>
+                <select asp-for="Role" class="form-select border-0 shadow-sm text-dark"
+                        style="background-color:#FFF0F5;">
+                    <option value="Student">Học viên</option>
+                    <option value="Tutor">Gia sư</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="Password" class="form-label"><i class="fas fa-lock"></i> Mật khẩu</label>
+                <input asp-for="Password" class="form-control border-0 shadow-sm text-dark"
+                       type="password" required placeholder="Nhập mật khẩu"
+                       style="background-color:#FFF0F5;" />
+            </div>
+
+            <div class="d-grid">
+                <button type="submit" class="btn fw-bold" style="background-color:#FF85A2 ; color: white;">
+                    <i class="fas fa-user-plus"></i> Đăng ký
+                </button>
+            </div>
+
+            <div class="text-center mt-3">
+                <p>
+                    Đã có tài khoản?
+                    <a asp-page="/Account/Login" class="fw-bold" style="color: #FF85A2;">Đăng nhập ngay</a>
+                </p>
+            </div>
+        </form>
+    </div>
+</div>

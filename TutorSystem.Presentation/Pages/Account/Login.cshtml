@@ -1,0 +1,49 @@
+﻿@page
+@model TutorSystem.Presentation.Pages.Account.LoginModel
+@{
+    ViewData["Title"] = "Đăng nhập";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-99">
+    <div class="card shadow-lg p-4" style="width: 400px; background-color: #E3F2FD; border-radius: 15px;">
+        <div class="text-center">
+            <h3 class="fw-bold" style="color:#FF85A2;"><i class="fas fa-sign-in-alt"></i> Đăng nhập</h3>
+            <p class="text-muted">Chào mừng bạn quay lại!</p>
+        </div>
+
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <div class="alert alert-danger text-center">@Model.ErrorMessage</div>
+        }
+
+        <form method="post">
+            <div class="mb-3">
+                <label for="Email" class="form-label"><i class="fas fa-envelope"></i> Email</label>
+                <input asp-for="Email" class="form-control border-0 shadow-sm text-black"
+                       type="email" required placeholder="Nhập email của bạn"
+                       style="background-color:#FFF0F5; color: white;" />
+            </div>
+
+            <div class="mb-3">
+                <label for="Password" class="form-label"><i class="fas fa-lock"></i> Mật khẩu</label>
+                <input asp-for="Password" class="form-control border-0 shadow-sm text-black"
+                       type="password" required placeholder="Nhập mật khẩu"
+                       style="background-color:#FFF0F5; color: white;" />
+            </div>
+
+
+            <div class="d-grid">
+                <button type="submit" class="btn fw-bold" style="background-color:#FF85A2 ; color: white;">
+                    <i class="fas fa-sign-in-alt"></i> Đăng nhập
+                </button>
+            </div>
+
+            <div class="text-center mt-3">
+                <p>
+                    Chưa có tài khoản?
+                    <a asp-page="/Account/Register" class="fw-bold" style="color: #FF85A2;">Đăng ký ngay</a>
+                </p>
+            </div>
+        </form>
+    </div>
+</div>

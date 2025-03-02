@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.repository\\interfaces\\itutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|solutionrelative:tutorsystem.repository\\interfaces\\itutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D57DC-B4AA-4C8A-8565-1E07619FD846}|TutorSystem.Service\\TutorSystem.Service.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.service\\interfaces\\itutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D57DC-B4AA-4C8A-8565-1E07619FD846}|TutorSystem.Service\\TutorSystem.Service.csproj|solutionrelative:tutorsystem.service\\interfaces\\itutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D57DC-B4AA-4C8A-8565-1E07619FD846}|TutorSystem.Service\\TutorSystem.Service.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.service\\services\\tutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D57DC-B4AA-4C8A-8565-1E07619FD846}|TutorSystem.Service\\TutorSystem.Service.csproj|solutionrelative:tutorsystem.service\\services\\tutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\account\\tutorverification.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\account\\tutorverification.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\account\\tutorverification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\account\\tutorverification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D57DC-B4AA-4C8A-8565-1E07619FD846}|TutorSystem.Service\\TutorSystem.Service.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D57DC-B4AA-4C8A-8565-1E07619FD846}|TutorSystem.Service\\TutorSystem.Service.csproj|solutionrelative:tutorsystem.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|solutionrelative:tutorsystem.repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.repository\\repositories\\tutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|solutionrelative:tutorsystem.repository\\repositories\\tutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.repository\\entities\\tutordocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|solutionrelative:tutorsystem.repository\\entities\\tutordocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D57DC-B4AA-4C8A-8565-1E07619FD846}|TutorSystem.Service\\TutorSystem.Service.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D57DC-B4AA-4C8A-8565-1E07619FD846}|TutorSystem.Service\\TutorSystem.Service.csproj|solutionrelative:tutorsystem.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|solutionrelative:tutorsystem.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.repository\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|solutionrelative:tutorsystem.repository\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|solutionrelative:tutorsystem.repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.repository\\entities\\tutorsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FDA5C7-70EC-496A-B934-F9724DCB265A}|TutorSystem.Repository\\TutorSystem.Repository.csproj|solutionrelative:tutorsystem.repository\\entities\\tutorsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|c:\\users\\huyh6\\onedrive\\desktop\\exe101\\tutorsystem\\tutorsystem.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A58F7AF-7A38-45FD-AA30-9516AB1439FD}|TutorSystem.Presentation\\TutorSystem.Presentation.csproj|solutionrelative:tutorsystem.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITutorService.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Service\\Interfaces\\ITutorService.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Service\\Interfaces\\ITutorService.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Service\\Interfaces\\ITutorService.cs",
+              "RelativeToolTip": "TutorSystem.Service\\Interfaces\\ITutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:55:34.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TutorService.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Service\\Services\\TutorService.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Service\\Services\\TutorService.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Service\\Services\\TutorService.cs",
+              "RelativeToolTip": "TutorSystem.Service\\Services\\TutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:54:06.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TutorVerification.cshtml",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\TutorVerification.cshtml",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\Account\\TutorVerification.cshtml",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\TutorVerification.cshtml",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\Account\\TutorVerification.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T11:56:40.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TutorVerification.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\TutorVerification.cshtml.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\Account\\TutorVerification.cshtml.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\TutorVerification.cshtml.cs",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\Account\\TutorVerification.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:52:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Interfaces\\ITutorRepository.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Repository\\Interfaces\\ITutorRepository.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Interfaces\\ITutorRepository.cs",
+              "RelativeToolTip": "TutorSystem.Repository\\Interfaces\\ITutorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:00:21.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TutorSystem.Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:09:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "TutorSystem.Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:19:29.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Repositories\\TutorRepository.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Repository\\Repositories\\TutorRepository.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Repositories\\TutorRepository.cs",
+              "RelativeToolTip": "TutorSystem.Repository\\Repositories\\TutorRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:54:00.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TutorDocument.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Entities\\TutorDocument.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Repository\\Entities\\TutorDocument.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Entities\\TutorDocument.cs",
+              "RelativeToolTip": "TutorSystem.Repository\\Entities\\TutorDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:58:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T13:13:58.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "TutorSystem.Service\\Services\\UserService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:03:35.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TutorSystem.Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:49:15.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Repository\\Entities\\Subject.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Entities\\Subject.cs",
+              "RelativeToolTip": "TutorSystem.Repository\\Entities\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:49:36.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:49:05.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:08:56.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Program.cs",
+              "RelativeToolTip": "TutorSystem.Presentation\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:37:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Profile.cshtml",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\Account\\Profile.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T06:33:28.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAH4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T03:33:36.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T06:13:26.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T06:13:24.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "TutorSystem.Presentation\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:25:23.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Entities\\User.cs",
+              "RelativeToolTip": "TutorSystem.Repository\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:36:56.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TutorSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Entities\\TutorSystemContext.cs",
+              "RelativeDocumentMoniker": "TutorSystem.Repository\\Entities\\TutorSystemContext.cs",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Repository\\Entities\\TutorSystemContext.cs",
+              "RelativeToolTip": "TutorSystem.Repository\\Entities\\TutorSystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:42:28.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "TutorSystem.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\appsettings.json",
+              "RelativeToolTip": "TutorSystem.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T03:41:55.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\bin\Debug\net8.0\TutorSystem.Repository.deps.json
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\bin\Debug\net8.0\TutorSystem.Repository.runtimeconfig.json
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\bin\Debug\net8.0\TutorSystem.Repository.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\bin\Debug\net8.0\TutorSystem.Repository.pdb
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.AssemblyInfo.cs
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\refint\TutorSystem.Repository.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.pdb
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.genruntimeconfig.cache
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\ref\TutorSystem.Repository.dll

@@ -1,0 +1,70 @@
+﻿@page
+@model TutorSystem.Presentation.Pages.Account.ProfileModel
+@{
+    ViewData["Title"] = "Hồ sơ cá nhân";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-90">
+    <div class="card shadow-lg p-4" style="width: 420px; background-color: #E3F2FD; border-radius: 15px;">
+        <h3 class="fw-bold text-center" style="color:#FF85A2;">
+            <i class="fas fa-user-circle"></i> Hồ sơ cá nhân
+        </h3>
+        <p class="text-muted text-center">Cập nhật thông tin cá nhân của bạn.</p>
+
+        <form method="post">
+            <div class="mb-3">
+                <label for="FullName" class="form-label"><i class="fas fa-user"></i> Họ và tên</label>
+                <input asp-for="InputUser.FullName" class="form-control border-0 shadow-sm"
+                       required placeholder="Nhập họ và tên của bạn"
+                       style="background-color:#FFF0F5; color: black;" />
+            </div>
+
+            <div class="mb-3">
+                <label for="Email" class="form-label"><i class="fas fa-envelope"></i> Email</label>
+                <input asp-for="InputUser.Email" class="form-control border-0 shadow-sm"
+                       readonly style="background-color:#FFF0F5; color: black;" />
+            </div>
+
+            <div class="mb-3">
+                <label for="PhoneNumber" class="form-label"><i class="fas fa-phone"></i> Số điện thoại</label>
+                <input asp-for="InputUser.PhoneNumber" class="form-control border-0 shadow-sm"
+                       placeholder="Nhập số điện thoại" style="background-color:#FFF0F5; color: black;" />
+            </div>
+
+            <div class="mb-3">
+                <label for="University" class="form-label"><i class="fas fa-school"></i> Trường đại học</label>
+                <input asp-for="InputUser.University" class="form-control border-0 shadow-sm"
+                       placeholder="Nhập tên trường" style="background-color:#FFF0F5; color: black;" />
+            </div>
+
+            <div class="d-flex justify-content-center">
+                <button type="submit" class="btn fw-bold"
+                        style="background-color:#FF85A2; color: white;">
+                    <i class="fas fa-save"></i> Cập nhật
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- ✅ Hiển thị thông báo cập nhật thành công với localStorage -->
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script>
+        // Nếu `ShowPopup` tồn tại, hiển thị thông báo và xóa khỏi localStorage
+        if (localStorage.getItem("ShowPopup")) {
+            Swal.fire({
+                icon: 'success',
+                title: 'Cập nhật thành công!',
+                confirmButtonText: 'OK'
+            });
+            localStorage.removeItem("ShowPopup"); // Xóa sau khi hiển thị
+        }
+
+        // Khi bấm nút "Cập nhật", đặt ShowPopup vào localStorage
+        document.querySelector("form").addEventListener("submit", function () {
+            localStorage.setItem("ShowPopup", "true");
+        });
+    </script>
+}

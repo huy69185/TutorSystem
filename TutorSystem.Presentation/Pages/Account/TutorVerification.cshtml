@@ -1,0 +1,46 @@
+﻿@page
+@model TutorSystem.Presentation.Pages.Account.TutorVerificationModel
+@{
+    ViewData["Title"] = "Xác minh Gia sư";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-90">
+    <div class="card shadow-lg p-4" style="width: 450px; background-color: #E3F2FD; border-radius: 15px;">
+        <h3 class="fw-bold text-center" style="color:#FF85A2;">
+            <i class="fas fa-user-check"></i> Xác minh Gia sư
+        </h3>
+        <p class="text-muted text-center">Vui lòng chọn loại tài liệu và tải lên bằng cấp hoặc bảng điểm để xác minh.</p>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success text-center">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        <form method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label class="form-label"><i class="fas fa-list"></i> Chọn loại tài liệu</label>
+                <select asp-for="SelectedDocumentType" class="form-select border-0 shadow-sm" required
+                        style="background-color:#FFF0F5; color: black;">
+                    <option value="Degree">Bằng cấp</option>
+                    <option value="Transcript">Bảng điểm</option>
+                    <option value="Certificate">Chứng chỉ</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label"><i class="fas fa-file-upload"></i> Tải lên tài liệu</label>
+                <input type="file" asp-for="UploadedFile" class="form-control border-0 shadow-sm" required
+                       style="background-color:#FFF0F5; color: black;" />
+            </div>
+
+            <div class="d-flex justify-content-center">
+                <button type="submit" class="btn fw-bold"
+                        style="background-color:#FF85A2; color: white;">
+                    <i class="fas fa-upload"></i> Gửi xác minh
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
