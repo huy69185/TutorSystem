@@ -12,3 +12,4 @@ C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\De
 C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.pdb
 C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.genruntimeconfig.cache
 C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\ref\TutorSystem.Repository.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Repository\obj\Debug\net8.0\TutorSystem.Repository.sourcelink.json

@@ -245,8 +245,28 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\uploads\\2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\uploads\\50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\uploads\\5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\uploads\\64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
       "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.png",
       "PackagePath": "staticwebassets\\uploads\\6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\uploads\\d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.png"
     },
     {
       "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\dfddae76-0810-47fc-ac16-2182081e09b0_Navy Illustration Sky Desktop Wallpaper.png",
@@ -255,6 +275,10 @@
     {
       "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png",
       "PackagePath": "staticwebassets\\uploads\\e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\uploads\\fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TutorSystem.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

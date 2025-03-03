@@ -94,12 +94,13 @@ namespace TutorSystem.Service.Services
                         var tutor = await _tutorService.GetTutorByUserIdAsync(user.UserId);
                         if (tutor != null && !(tutor.IsApproved ?? false))
                         {
-                            // 🚀 Sửa lại để chuyển hướng đúng
-                            return "/Account/TutorVerification"; 
+                            // 🔥 Lưu vào TempData để hiển thị thông báo liên tục
+                            _httpContextAccessor.HttpContext.Session.SetString("TutorPending", "true");
+                            return "/Account/TutorVerification";
                         }
                     }
 
-                    return "/Index"; // ✅ Nếu đã xác minh hoặc không phải Tutor, vào hệ thống
+                    return "/Index";
                 }
                 return null;
             }
@@ -109,6 +110,7 @@ namespace TutorSystem.Service.Services
                 return null;
             }
         }
+
         public async Task LogoutUserAsync()
         {
             if (_httpContextAccessor.HttpContext != null)

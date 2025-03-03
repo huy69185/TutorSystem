@@ -13,5 +13,6 @@ namespace TutorSystem.Service.Interfaces
         Task<bool> IsTutorApprovedAsync(Guid userId);
         Task<Tutor> GetTutorByUserIdAsync(Guid userId);
         Task SubmitTutorVerificationAsync(Guid tutorId, string documentType, string filePath);
+        Task<List<TutorDocument>> GetTutorDocumentsAsync(Guid tutorId);
     }
 }

@@ -12,15 +12,26 @@ namespace TutorSystem.Presentation.Pages.Account
         private readonly ITutorService _tutorService;
 
         public bool IsPending { get; set; } = false;
+        public bool HasSubmitted { get; set; } = false; // ✅ Biến kiểm tra đã gửi tài liệu chưa
 
         public TutorVerificationModel(ITutorService tutorService)
         {
             _tutorService = tutorService;
         }
 
-        public void OnGet(bool pending = false)
+        public async Task OnGetAsync()
         {
-            IsPending = pending;
+            var userId = Guid.Parse(User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier).Value);
+            var tutor = await _tutorService.GetTutorByUserIdAsync(userId);
+
+            if (tutor != null)
+            {
+                IsPending = !(tutor.IsApproved ?? false);
+
+                // ✅ Kiểm tra xem Tutor đã gửi tài liệu hay chưa
+                var documents = await _tutorService.GetTutorDocumentsAsync(tutor.TutorId);
+                HasSubmitted = documents.Count > 0;
+            }
         }
 
         [BindProperty]
@@ -70,8 +81,7 @@ namespace TutorSystem.Presentation.Pages.Account
 
             TempData["SuccessMessage"] = "Tài liệu xác minh đã được gửi. Vui lòng chờ xét duyệt!";
 
-            // 🔥 Chuyển hướng ngay sau khi upload để hiển thị popup
-            return RedirectToPage("/Account/TutorVerification", new { pending = true });
+            return RedirectToPage("/Account/TutorVerification");
         }
     }
 }

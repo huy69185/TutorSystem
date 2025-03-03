@@ -63,5 +63,9 @@ namespace TutorSystem.Service.Services
 
             await _tutorRepository.SaveTutorDocumentAsync(tutorDocument);
         }
+        public async Task<List<TutorDocument>> GetTutorDocumentsAsync(Guid tutorId)
+        {
+            return await _tutorRepository.GetTutorDocumentsAsync(tutorId);
+        }
     }
 }

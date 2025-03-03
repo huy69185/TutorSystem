@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B2h0s+SJcLY4fSEHd2dF3KlylR7m0UP7BUsJBZgzetY=",
+  "Hash": "C0Z1pn7uOqtTbbkRsKwsarZwrsDnbKVKGycmg6XgTwE=",
   "Source": "TutorSystem.Presentation",
   "BasePath": "_content/TutorSystem.Presentation",
   "Mode": "Default",
@@ -1319,6 +1319,90 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.png",
+      "SourceId": "TutorSystem.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\",
+      "BasePath": "_content/TutorSystem.Presentation",
+      "RelativePath": "uploads/2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh1u41k59d",
+      "Integrity": "9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Identity": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.png",
+      "SourceId": "TutorSystem.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\",
+      "BasePath": "_content/TutorSystem.Presentation",
+      "RelativePath": "uploads/50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh1u41k59d",
+      "Integrity": "9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Identity": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.png",
+      "SourceId": "TutorSystem.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\",
+      "BasePath": "_content/TutorSystem.Presentation",
+      "RelativePath": "uploads/5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh1u41k59d",
+      "Integrity": "9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Identity": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.png",
+      "SourceId": "TutorSystem.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\",
+      "BasePath": "_content/TutorSystem.Presentation",
+      "RelativePath": "uploads/64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh1u41k59d",
+      "Integrity": "9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
       "Identity": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.png",
       "SourceId": "TutorSystem.Presentation",
       "SourceType": "Discovered",
@@ -1338,6 +1422,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Identity": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.png",
+      "SourceId": "TutorSystem.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\",
+      "BasePath": "_content/TutorSystem.Presentation",
+      "RelativePath": "uploads/d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh1u41k59d",
+      "Integrity": "9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.png"
     },
     {
       "Identity": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\dfddae76-0810-47fc-ac16-2182081e09b0_Navy Illustration Sky Desktop Wallpaper.png",
@@ -1380,6 +1485,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Identity": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.png",
+      "SourceId": "TutorSystem.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\",
+      "BasePath": "_content/TutorSystem.Presentation",
+      "RelativePath": "uploads/fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh1u41k59d",
+      "Integrity": "9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.png"
     }
   ],
   "Endpoints": [
@@ -6468,6 +6594,334 @@
       ]
     },
     {
+      "Route": "uploads/2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.mh1u41k59d.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:49:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh1u41k59d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\2cc02bc2-1c92-45f5-b1d5-31c617a834c7_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:49:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.mh1u41k59d.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh1u41k59d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\50cbf12c-8e75-4a6e-a1be-9fb34cf2a906_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:56:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.mh1u41k59d.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh1u41k59d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\5b03f983-da4e-4df8-a3c7-14edb81fa0ac_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.mh1u41k59d.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh1u41k59d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\64d3ea91-87bf-4a95-92ed-26fa25ff50db_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
       "Route": "uploads/6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.mh1u41k59d.png",
       "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.png",
       "Selectors": [],
@@ -6536,6 +6990,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.mh1u41k59d.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:31:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh1u41k59d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\d353e52b-6b1e-4b94-9b31-b48a01b1f63e_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:31:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6700,6 +7236,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 13:23:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.mh1u41k59d.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh1u41k59d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.png",
+      "AssetFile": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\fde65995-9510-46b9-90d2-eaf0a0abb941_Navy Illustration Sky Desktop Wallpaper.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2140018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 13:37:16 GMT"
         },
         {
           "Name": "Cache-Control",

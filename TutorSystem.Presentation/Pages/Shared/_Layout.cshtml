@@ -1,4 +1,16 @@
-﻿<!DOCTYPE html>
+﻿@inject TutorSystem.Service.Interfaces.ITutorService TutorService
+
+@{
+    bool isTutorPending = false;
+
+    if (User.Identity.IsAuthenticated && User.IsInRole("Tutor"))
+    {
+        var tutor = await TutorService.GetTutorByUserIdAsync(Guid.Parse(User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier).Value));
+        isTutorPending = tutor != null && !(tutor.IsApproved ?? false);
+    }
+}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -7,51 +19,59 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-
-    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-
-    <!-- Custom CSS -->
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/TutorSystem.Presentation.styles.css" asp-append-version="true" />
 
     <style>
-        /* Nền tổng thể */
         body {
-            background-color: white; /* Xanh da trời nhạt */
+            background-color: white;
         }
 
-        /* Navbar */
         .navbar {
-            background-color: #E3F2FD !important; /* Hồng pastel */
+            background-color: #E3F2FD !important;
         }
         .navbar .nav-link,
         .navbar .navbar-brand {
-                color: #104E8B !important;
+            color: #104E8B !important;
         }
         .navbar .btn-light {
             background-color: white;
-                color: #104E8B !important;
+            color: #104E8B !important;
             border-radius: 20px;
         }
         .navbar .btn-light:hover {
-             background-color: #104E8B;
+            background-color: #104E8B;
         }
 
-        /* Footer */
         footer {
             background-color: #E3F2FD;
         }
         footer p, footer a {
-                color: #104E8B !important;
+            color: #104E8B !important;
         }
 
-        /* Card container */
         .content-container {
             background-color: white;
             padding: 20px;
             border-radius: 15px;
             box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* 🔥 Vô hiệu hóa nội dung khi Tutor chưa xác minh */
+        .disabled-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.7);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 18px;
+            font-weight: bold;
+            color: red;
         }
     </style>
 </head>
@@ -70,22 +90,28 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav me-auto">
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-page="/Index">Trang chủ</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-page="/Privacy">Chính sách</a>
-                        </li>
+                        @if (!isTutorPending)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-page="/Index">Trang chủ</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-page="/Privacy">Chính sách</a>
+                            </li>
+                        }
                     </ul>
                     <ul class="navbar-nav">
                         @if (User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle text-white" href="#" id="userDropdown" role="button" data-bs-toggle="dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-bs-toggle="dropdown">
                                     <i class="fas fa-user"></i> @User.Identity.Name
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-end">
-                                    <li><a class="dropdown-item" asp-page="/Account/Profile"><i class="fas fa-user-circle"></i> Hồ sơ</a></li>
+                                    @if (!isTutorPending)
+                                    {
+                                        <li><a class="dropdown-item" asp-page="/Account/Profile"><i class="fas fa-user-circle"></i> Hồ sơ</a></li>
+                                    }
                                     <li><a class="dropdown-item text-danger" asp-page="/Account/Logout"><i class="fas fa-sign-out-alt"></i> Đăng xuất</a></li>
                                 </ul>
                             </li>
@@ -93,7 +119,7 @@
                         else
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-white" asp-page="/Account/Login"><i class="fas fa-sign-in-alt"></i> Đăng nhập</a>
+                                <a class="nav-link" asp-page="/Account/Login"><i class="fas fa-sign-in-alt"></i> Đăng nhập</a>
                             </li>
                             <li class="nav-item">
                                 <a class="btn btn-light text-primary fw-bold" asp-page="/Account/Register">
@@ -109,7 +135,12 @@
 
     <!-- Main Content -->
     <div class="container my-4">
-        <div class="content-container">
+        <div class="content-container position-relative">
+            @if (isTutorPending)
+            {
+                <div class="disabled-overlay">
+                </div>
+            }
             <main role="main">
                 @RenderBody()
             </main>
@@ -119,13 +150,16 @@
     <!-- Footer -->
     <footer class="text-white py-4">
         <div class="container text-center">
-            <p>&copy; 2025 - TutorSystem - <a asp-page="/Privacy" class="text-decoration-none">Chính sách bảo mật</a></p>
-            <p>
-                Theo dõi chúng tôi:
-                <a href="#"><i class="fab fa-facebook"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-linkedin"></i></a>
-            </p>
+            @if (!isTutorPending)
+            {
+                <p>&copy; 2025 - TutorSystem - <a asp-page="/Privacy" class="text-decoration-none">Chính sách bảo mật</a></p>
+                <p>
+                    Theo dõi chúng tôi:
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                </p>
+            }
         </div>
     </footer>
 

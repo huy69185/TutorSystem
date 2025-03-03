@@ -4,15 +4,6 @@
     ViewData["Title"] = "Xác minh Gia sư";
 }
 
-@if (Model.IsPending)
-{
-    <script>
-        window.onload = function() {
-            alert("Tài khoản của bạn đang được xác minh. Vui lòng chờ hoặc đăng xuất và quay lại sau!");
-        };
-    </script>
-}
-
 <div class="container d-flex justify-content-center align-items-center vh-90">
     <div class="card shadow-lg p-4" style="width: 450px; background-color: #E3F2FD; border-radius: 15px;">
         <h3 class="fw-bold text-center" style="color:#FF85A2;">
@@ -31,7 +22,8 @@
             <div class="mb-3">
                 <label class="form-label"><i class="fas fa-list"></i> Chọn loại tài liệu</label>
                 <select asp-for="SelectedDocumentType" class="form-select border-0 shadow-sm" required
-                        style="background-color:#FFF0F5; color: black;">
+                        style="background-color:#FFF0F5; color: black;"
+                        disabled="@(Model.HasSubmitted ? "disabled" : null)">
                     <option value="Degree">Bằng cấp</option>
                     <option value="Transcript">Bảng điểm</option>
                     <option value="Certificate">Chứng chỉ</option>
@@ -41,15 +33,22 @@
             <div class="mb-3">
                 <label class="form-label"><i class="fas fa-file-upload"></i> Tải lên tài liệu</label>
                 <input type="file" asp-for="UploadedFile" class="form-control border-0 shadow-sm" required
-                       style="background-color:#FFF0F5; color: black;" />
+                       style="background-color:#FFF0F5; color: black;"
+                       disabled="@(Model.HasSubmitted ? "disabled" : null)" />
             </div>
 
             <div class="d-flex justify-content-center">
-                <button type="submit" class="btn fw-bold"
-                        style="background-color:#FF85A2; color: white;">
+                <button type="submit" id="submitBtn" class="btn fw-bold"
+                        style="background-color:#FF85A2; color: white;"
+                        disabled="@(Model.HasSubmitted ? "disabled" : null)">
                     <i class="fas fa-upload"></i> Gửi xác minh
                 </button>
             </div>
         </form>
+
+        @if (Model.HasSubmitted)
+        {
+            <p class="text-center text-danger mt-3"><i class="fas fa-info-circle"></i> Bạn đã gửi tài liệu. Vui lòng chờ xét duyệt.</p>
+        }
     </div>
 </div>
