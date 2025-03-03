@@ -4,6 +4,15 @@
     ViewData["Title"] = "Xác minh Gia sư";
 }
 
+@if (Model.IsPending)
+{
+    <script>
+        window.onload = function() {
+            alert("Tài khoản của bạn đang được xác minh. Vui lòng chờ hoặc đăng xuất và quay lại sau!");
+        };
+    </script>
+}
+
 <div class="container d-flex justify-content-center align-items-center vh-90">
     <div class="card shadow-lg p-4" style="width: 450px; background-color: #E3F2FD; border-radius: 15px;">
         <h3 class="fw-bold text-center" style="color:#FF85A2;">

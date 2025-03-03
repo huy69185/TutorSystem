@@ -61,7 +61,6 @@ namespace TutorSystem.Service.Services
             var inputHash = HashPassword(inputPassword);
             return hashedPassword == inputHash;
         }
-
         public async Task<string?> LoginUserAsync(string email, string password)
         {
             try
@@ -95,11 +94,12 @@ namespace TutorSystem.Service.Services
                         var tutor = await _tutorService.GetTutorByUserIdAsync(user.UserId);
                         if (tutor != null && !(tutor.IsApproved ?? false))
                         {
-                            return "/Account/TutorVerification"; // 🚀 Nếu chưa duyệt, chuyển hướng xác minh
+                            // 🚀 Sửa lại để chuyển hướng đúng
+                            return "/Account/TutorVerification"; 
                         }
                     }
 
-                    return "/Index"; // ✅ Nếu không phải tutor hoặc đã xác minh, về trang chính
+                    return "/Index"; // ✅ Nếu đã xác minh hoặc không phải Tutor, vào hệ thống
                 }
                 return null;
             }

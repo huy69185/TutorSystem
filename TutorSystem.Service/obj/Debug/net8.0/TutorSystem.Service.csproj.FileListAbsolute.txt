@@ -13,3 +13,4 @@ C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug
 C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\refint\TutorSystem.Service.dll
 C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.pdb
 C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\ref\TutorSystem.Service.dll
+C:\Users\huyh6\OneDrive\Desktop\EXE101\TutorSystem\TutorSystem.Service\obj\Debug\net8.0\TutorSystem.Service.sourcelink.json

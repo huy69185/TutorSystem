@@ -249,6 +249,14 @@
       "PackagePath": "staticwebassets\\uploads\\6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.png"
     },
     {
+      "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\dfddae76-0810-47fc-ac16-2182081e09b0_Navy Illustration Sky Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\uploads\\dfddae76-0810-47fc-ac16-2182081e09b0_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
+      "Id": "C:\\Users\\huyh6\\OneDrive\\Desktop\\EXE101\\TutorSystem\\TutorSystem.Presentation\\wwwroot\\uploads\\e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\uploads\\e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TutorSystem.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

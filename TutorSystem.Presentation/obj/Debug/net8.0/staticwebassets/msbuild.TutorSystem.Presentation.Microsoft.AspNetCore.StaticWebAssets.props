@@ -1116,5 +1116,41 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\dfddae76-0810-47fc-ac16-2182081e09b0_Navy Illustration Sky Desktop Wallpaper.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TutorSystem.Presentation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TutorSystem.Presentation</BasePath>
+      <RelativePath>uploads/dfddae76-0810-47fc-ac16-2182081e09b0_Navy Illustration Sky Desktop Wallpaper.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mh1u41k59d</Fingerprint>
+      <Integrity>9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\dfddae76-0810-47fc-ac16-2182081e09b0_Navy Illustration Sky Desktop Wallpaper.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TutorSystem.Presentation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TutorSystem.Presentation</BasePath>
+      <RelativePath>uploads/e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mh1u41k59d</Fingerprint>
+      <Integrity>9vTX2jqDlvec7kag0Twyn1kaeNu9C4D3I64cZVpwhsg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png'))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

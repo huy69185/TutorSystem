@@ -11,16 +11,23 @@ namespace TutorSystem.Presentation.Pages.Account
     {
         private readonly ITutorService _tutorService;
 
+        public bool IsPending { get; set; } = false;
+
         public TutorVerificationModel(ITutorService tutorService)
         {
             _tutorService = tutorService;
+        }
+
+        public void OnGet(bool pending = false)
+        {
+            IsPending = pending;
         }
 
         [BindProperty]
         public IFormFile UploadedFile { get; set; }
 
         [BindProperty]
-        public string SelectedDocumentType { get; set; } // 🔥 Thêm thuộc tính để nhận giá trị từ form
+        public string SelectedDocumentType { get; set; }
 
         public async Task<IActionResult> OnPostAsync()
         {
@@ -45,28 +52,26 @@ namespace TutorSystem.Presentation.Pages.Account
                 return RedirectToPage("/Index");
             }
 
-            // Tạo thư mục nếu chưa tồn tại
             var uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "uploads");
             if (!Directory.Exists(uploadPath))
             {
                 Directory.CreateDirectory(uploadPath);
             }
 
-            // Định dạng đường dẫn file
             var fileName = $"{Guid.NewGuid()}_{UploadedFile.FileName}";
             var filePath = Path.Combine(uploadPath, fileName);
 
-            // Lưu file vào thư mục
             using (var stream = new FileStream(filePath, FileMode.Create))
             {
                 await UploadedFile.CopyToAsync(stream);
             }
 
-            // Lưu thông tin tài liệu vào database với loại tài liệu do người dùng chọn
             await _tutorService.SubmitTutorVerificationAsync(tutor.TutorId, SelectedDocumentType, $"/uploads/{fileName}");
 
             TempData["SuccessMessage"] = "Tài liệu xác minh đã được gửi. Vui lòng chờ xét duyệt!";
-            return RedirectToPage("/Index");
+
+            // 🔥 Chuyển hướng ngay sau khi upload để hiển thị popup
+            return RedirectToPage("/Account/TutorVerification", new { pending = true });
         }
     }
 }

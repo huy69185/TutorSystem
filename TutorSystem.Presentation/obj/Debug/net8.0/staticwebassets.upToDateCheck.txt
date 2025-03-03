@@ -59,3 +59,5 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\uploads\6e3a0fbc-abc8-4262-b2b9-86400f873702_Navy Illustration Sky Desktop Wallpaper.png
+wwwroot\uploads\dfddae76-0810-47fc-ac16-2182081e09b0_Navy Illustration Sky Desktop Wallpaper.png
+wwwroot\uploads\e3b3aa67-1f6c-486b-aaaa-5279eac646ad_Navy Illustration Sky Desktop Wallpaper.png
